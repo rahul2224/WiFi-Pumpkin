@@ -16,7 +16,7 @@ The WiFi-Pumpkin is a rogue AP framework to easily create these fake networks, a
 - Python 2.7
 
 ```sh
- git clone https://github.com/P0cL4bs/WiFi-Pumpkin.git
+ git clone https://github.com/rahul2224/WiFi-Pumpkin
  cd WiFi-Pumpkin
  ./installer.sh --install
 ```
